@@ -1,0 +1,26 @@
+{
+  "name": "soundgrail-ableton-project-files",
+  "version": "1.0.0",
+  "description": "Ableton Project Files educational Ableton Live project files to learn production techniques",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ableton",
+    "ableton-live",
+    "project-files",
+    "music-production",
+    "templates",
+    "samples",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "SoundGrail",
+  "license": "ISC",
+  "homepage": "https://soundgrail.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soundgrail/ableton-project-files.git"
+  }
+}
